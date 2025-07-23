@@ -1,0 +1,70 @@
+{
+    "inventory": {
+        "admin": {
+            "automatic": 1000000,
+            "manual": 1000000
+        },
+        "free": {
+            "automatic": 12,
+            "manual": 12
+        },
+        "standard": {
+            "automatic": 48,
+            "manual": 48
+        },
+        "pro": {
+            "automatic": 96,
+            "manual": 96
+        },
+        "enterprise 1": {
+            "automatic": 200,
+            "manual": 200
+        },
+        "enterprise 2": {
+            "automatic": 500,
+            "manual": 500
+        },
+        "enterprise 3": {
+            "automatic": 750,
+            "manual": 750
+        },
+        "enterprise 4": {
+            "automatic": 1000,
+            "manual": 1000
+        }
+    },
+    "orders": {
+        "admin": {
+            "automatic": 1000000,
+            "manual": 1000000
+        },
+        "free": {
+            "automatic": 12,
+            "manual": 12
+        },
+        "standard": {
+            "automatic": 48,
+            "manual": 48
+        },
+        "pro": {
+            "automatic": 96,
+            "manual": 96
+        },
+        "enterprise 1": {
+            "automatic": 200,
+            "manual": 200
+        },
+        "enterprise 2": {
+            "automatic": 500,
+            "manual": 500
+        },
+        "enterprise 3": {
+            "automatic": 750,
+            "manual": 750
+        },
+        "enterprise 4": {
+            "automatic": 1000,
+            "manual": 1000
+        }
+    }
+}
